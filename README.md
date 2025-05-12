@@ -1,16 +1,15 @@
 ## Hi there 👋 I'm Satyam Sivam Sahu
 
-I'm a passionate Full Stack Developer 🚀 focused on building modern web and mobile applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and more.
+I'm a passionate Full Stack Developer 🚀 focused on building modern web using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and more.
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on: **Mystic Odisha** – A tourism website for Odisha with authentication, search, wishlist, and district-wise exploration features.
-- 🌱 I’m currently learning: **Advanced Algorithms, Data Structures**, and **Backend Security** (e.g., encryption, authentication).
 - ⚙️ Tech Stack:
   - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, EJS
-  - **Backend:** Node.js, Express.js, PHP (beginner)
+  - **Backend:** Node.js, Express.js
   - **Database:** MongoDB, Mongoose
   - **Tools:** Git, VS Code, Postman, Multer, Nodemailer
 - 💡 I love turning complex problems into simple, beautiful, and intuitive web apps.
@@ -19,8 +18,8 @@ I'm a passionate Full Stack Developer 🚀 focused on building modern web and mo
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: `satyamsivamsahu@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/satyam-sivam-sahu/)
+- 📧 Email: `satyamhero1127@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/satyamsivamsahu010/)
 - 📂 [Portfolio Website](#) <!-- Replace with actual link when available -->
 
 ---
