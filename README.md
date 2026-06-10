@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer 🚀 focused on building modern web using 
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: `@gmail.com`
+- 📧 Email: `satyam123kanha@gmail.com`
 - 💼 [LinkedIn](https://www.linkedin.com/in/satyamsivamsahu010/)
 - 📂 [Portfolio Website](#) <!-- Replace with actual link when available -->
 
