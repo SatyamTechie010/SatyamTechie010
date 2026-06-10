@@ -39,8 +39,6 @@ I'm a passionate Full Stack Developer 🚀 focused on building modern web using 
 
 ### 🏆 Projects Highlight
 - **Mystic Odisha** – Explore Odisha’s districts, attractions, festivals, and more.
-- **Password Manager** – Secure password generator & manager with encryption and master-password access.
-
 ---
 
 Let's connect and create something amazing together! 🚀
